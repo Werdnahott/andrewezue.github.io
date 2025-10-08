@@ -1,0 +1,5 @@
+title: Welcome - My Blog
+description: A site about cybersecurity and more
+theme: minima  
+plugins:
+  - jekyll-feed  
