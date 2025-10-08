@@ -1,5 +1,7 @@
-title: Welcome - My Blog
-description: A site about cybersecurity and more
-theme: minima  
+remote_theme: cotes2020/jekyll-theme-chirpy
+title: Andrew's Cyber Site
+description: Projects, Labs, and Blogs on Cybersecurity
+url: "https://www.andrewezue.com"
+baseurl: ""
 plugins:
-  - jekyll-feed  
+  - jekyll-feed
