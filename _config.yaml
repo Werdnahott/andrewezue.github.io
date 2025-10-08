@@ -1,7 +1,6 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: daattali/beautiful-jekyll
 title: Andrew's Cyber Site
 description: Projects, Labs, and Blogs on Cybersecurity
-url: "https://www.andrewezue.com"
-baseurl: ""
+avatar: /assets/profile.png
 plugins:
   - jekyll-feed
